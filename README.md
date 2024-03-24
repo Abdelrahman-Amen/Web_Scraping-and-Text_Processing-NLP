@@ -19,4 +19,4 @@ Stemming and lemmatization are methods used to reduce words to their root forms,
 Stopwords are common words that often carry little or no significant meaning in textual analysis, such as "the," "and," or "is." Removing stopwords from our text data helps to focus on content-carrying words, enhancing the relevance of our analyses and reducing noise.
 
 ## Clarification
-It's important to note that the effectiveness of web scraping and text processing techniques can vary depending on factors such as the complexity of the source data and the specific requirements of the analysis. Our implementation aims to provide a foundation for data extraction and refinement, with flexibility for adaptation and customization to suit diverse use cases.
+It's important to note that the effectiveness of web scraping and text processing techniques can vary depending on factors such as the complexity of the source data and the specific requirements of the analysis. my implementation aims to provide a foundation for data extraction and refinement, with flexibility for adaptation and customization to suit diverse use cases.
